@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+class hello from dev2
+{
+void main() from dev2
+{
+system from dev2
+=======
+class hello from dev1
+{
+void main() from dev1
+{
+system from dev1
+>>>>>>> 9f92b46ecd045cbc8fca8704b224108e7c0ce917
+}
+average
+}
