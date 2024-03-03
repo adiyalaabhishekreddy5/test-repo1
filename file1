@@ -1,8 +1,8 @@
-class hello
+class hello from dev1
 {
-void main()
+void main() from dev1
 {
-system
+system from dev1
 }
 average
 }
